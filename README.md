@@ -1,10 +1,22 @@
-## Hi, I'm Joana! 
+<table>
+  <tr>
+    <td>
+
+## Hi, I'm Joana!
 
 - 👩🏾‍🎓 Estudante de Engenharia da Computação na *[Universidade Federal do Recôncavo da Bahia (UFRB)](https://ufrb.edu.br/portal/)*
 - 💻 Pesquisadora de Iniciação Científica desenvolvendo aplicações com Machine Learning
 - 🌱 Atualmente estudando Visão Computacional com [PyTorch](https://pytorch.org/)
 
+    </td>
+    <td align="right">
+     <img src="https://github.com/joliveiraas/joliveiraas/blob/main/coding.gif?raw=true" alt="gif" width="180"/>
+    </td>
+  </tr>
+</table>
+
 ---
+
 ### Sobre mim...
 
 ```python
