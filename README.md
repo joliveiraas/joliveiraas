@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/joliveiraas/joliveiraas/blob/main/coding.gif?raw=true" width="165"/>
+<img align="right" src="https://github.com/joliveiraas/joliveiraas/blob/main/coding.gif?raw=true" width="160"/>
 
 ## Hi, I'm Joana!
 
