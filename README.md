@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/joliveiraas/joliveiraas/blob/main/coding.gif?raw=true" width="160"/>
 
-## Hi, I'm Joana!
+# Hi, I'm Joana!
 
 - 👩🏾‍🎓 Estudante de Engenharia da Computação na *[Universidade Federal do Recôncavo da Bahia (UFRB)](https://ufrb.edu.br/portal/)*
 - 💻 Pesquisadora de Iniciação Científica desenvolvendo aplicações com Machine Learning
