@@ -1,19 +1,10 @@
-<table>
-  <tr>
-    <td>
+<img align="right" src="https://github.com/joliveiraas/joliveiraas/blob/main/coding.gif?raw=true" width="175"/>
 
 ## Hi, I'm Joana!
 
 - 👩🏾‍🎓 Estudante de Engenharia da Computação na *[Universidade Federal do Recôncavo da Bahia (UFRB)](https://ufrb.edu.br/portal/)*
 - 💻 Pesquisadora de Iniciação Científica desenvolvendo aplicações com Machine Learning
 - 🌱 Atualmente estudando Visão Computacional com [PyTorch](https://pytorch.org/)
-
-    </td>
-    <td align="right">
-     <img src="https://github.com/joliveiraas/joliveiraas/blob/main/coding.gif?raw=true" alt="gif" width="100"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
