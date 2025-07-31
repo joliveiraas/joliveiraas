@@ -10,7 +10,7 @@
 
     </td>
     <td align="right">
-     <img src="https://github.com/joliveiraas/joliveiraas/blob/main/coding.gif?raw=true" alt="gif" width="180"/>
+     <img src="https://github.com/joliveiraas/joliveiraas/blob/main/coding.gif?raw=true" alt="gif" width="100"/>
     </td>
   </tr>
 </table>
