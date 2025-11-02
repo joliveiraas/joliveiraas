@@ -13,7 +13,7 @@
 ```python
 joana = {
   pronouns: ["she", "her"],
-  code: ["Python"],
+  code: ["Python", "Java", "C/C++"],
   libraries: ["PyTorch", "pandas", "matplotlib", "scikit-learn", "OpenCV", "NumPy"],
   interests: ["machine learning", "computer vision", "image processing", "health tech", "data science"],
   techCommunities: {
